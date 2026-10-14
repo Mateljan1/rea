@@ -1,0 +1,8 @@
+{
+  "name": "racquetiq-rea-runtime",
+  "private": true,
+  "description": "Pinned project tooling; not shipped in RacquetIQ",
+  "dependencies": {
+    "rea-agents": "6.4.0"
+  }
+}
